@@ -1,0 +1,21 @@
+Spacja: AC
+
+Litery Duze:
+Kod:
+BE CE DE EE FE GE HE IE JE KE LE ME NE OE PE AF BF CF DF EF FF GF HF IF JF KF
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+
+Male Litery:
+Kod: 
+BG CG DG EG FG GG HG IG JG KG LG MG NG OG PG AH BH CH DH EH FH GH HH IH JH KH
+a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t  u  v  w  x  y  z
+
+Cyfry:
+Kod: 
+BD CD DD ED FD GD HD ID JD
+1  2  3  4  5  6  7  8  9
+
+Znaki Specjalne:
+Kod: 
+BC AE DC EC FC OF GC KC IC JC PF LC NC ND NF LF LD HC PC OC MC LH NH CC KD PD OD MD
+!  @  #  $  %  ^  &  *  (  )  _  +  -  =  >  <  ;  '  /  .  ,  {  }  "  :  ?  >  < 
